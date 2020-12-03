@@ -18,7 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    // 追記 https://qiita.com/shiei_kawa/items/227886079be34ccfaa38
+    "noImplicitAny": false
   },
   "include": [
     "src"
