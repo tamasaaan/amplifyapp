@@ -19,6 +19,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react",
+    // 追記 https://qiita.com/shiei_kawa/items/227886079be34ccfaa38
     "noImplicitAny": false
   },
   "include": [
