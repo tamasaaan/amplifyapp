@@ -37,7 +37,7 @@ amplify/backend/awscloudformation
 build/
 dist/
 node_modules/
-aws-exports.js
+# aws-exports.js // todo ビルド時に生成されないのでコメントアウトで対応
 awsconfiguration.json
 amplifyconfiguration.json
 amplify-build-config.json
